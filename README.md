@@ -8,12 +8,12 @@
 
 ## 🌟 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,java,c,vscode)](https://skillicons.dev)
 
 
 ## 🧪 Basic Knowledge
 
-[![Other Skills](https://skillicons.dev/icons?i=linux,bash,c,react,rust,postgresql,ocaml)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=rust,react,python,linux,bash,postgresql,ocaml)](https://skillicons.dev)
 <!--
 - 📫 How to reach me: ... TODO
 -->
